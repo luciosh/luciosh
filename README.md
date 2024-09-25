@@ -4,12 +4,6 @@
 - 👍 I like: Science, statistics, data
 - ⚡ Fun fact: I like to watch restoration videos of old things to relax
 
-<div align="center">
-  <a href="https://github.com/luciosh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luciosh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciosh&layout=compact&langs_count=7&theme=algolia"/>
-</div>
-
 </div>
 <div style="display: inline_block"><br>
 
